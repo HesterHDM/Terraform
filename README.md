@@ -1,2 +1,2 @@
 # Terraform
-This repocontains all terraform codes and projects
+This repo contains all terraform codes and projects
