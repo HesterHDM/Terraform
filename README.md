@@ -5,4 +5,6 @@ This repo contains all terraform codes and projects
 
 [Terraform-AWS](https://github.com/sanjukuruvilla/Terraform_AWS)
 
-[Terraform-Workshop](https://github.com/sanjukuruvilla/Terraform_workshop)
+[Terraform-EC2](https://github.com/sanjukuruvilla/Terraform_workshop)
+
+[Terraform_VPC](https://github.com/sanjukuruvilla/TF_VPC)
